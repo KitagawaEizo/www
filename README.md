@@ -10,4 +10,4 @@
 
 ご連絡は電子メールでのみお受けしております。音声通話・オンラインミーティングなどをご希望の際は事前に下記メールアドレスよりご相談下さい。
 
-// 後でメアド書く
+[contact@mail.kitagawa-eizo.com](mailto:contact@mail.kitagawa-eizo.com)
