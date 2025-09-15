@@ -26,4 +26,4 @@
 
 情報収集用 Twitter / X アカウント
 
-[@KitagawaEizoAdm](https://x.com/KitagawaEizoAdm)
+[@0x5E788F1D](https://x.com/0x5E788F1D)
