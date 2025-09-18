@@ -3,4 +3,5 @@ title: 北川映像 HP
 url: "https://www.kitagawa-eizo.com/"
 gems:
   - jekyll-sitemap
-  
+exclude: 
+  - .github/
