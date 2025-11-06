@@ -134,12 +134,12 @@ YouTube のライブ配信設定画面に戻り，ストリームキーを取得
 
 参考画像：この PC の場合，Intel QSV / NVIDIA NVENC の両方が使えます．また，搭載している GPU が比較的新しい<sup>[3]</sup>ため，H.264 / HEVC / AV1 が選択可能になっています．
 
+<div align="center"><img src="./imgs/23.png"></div>
+
 [2] : YouTube の推奨ビットレートについては，以下の公式ドキュメントを参照してください．  
 <https://support.google.com/youtube/answer/2853702?hl=ja>
 
 [3] : NVIDIA GeForce RTX4060 Laptop GPU 搭載のノート PC を使用しています．
-
-<div align="center"><img src="./imgs/23.png"></div>
 
 「録画」の枠の設定で，配信映像をローカルに保存することも可能です．必要に応じて設定してください．
 
