@@ -16,7 +16,7 @@
 ご連絡は電子メールでのみお受けしております。  
 音声通話・オンラインミーティングなどをご希望の際は事前に下記メールアドレスよりご相談下さい。
 
-[contact@mail.kitagawa-eizo.com](mailto:contact@mail.kitagawa-eizo.com)
+[contact@kitagawa-eizo.com](mailto:contact@kitagawa-eizo.com)
 
 ## 各種アカウント
 
