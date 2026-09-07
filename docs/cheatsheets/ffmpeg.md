@@ -8,7 +8,7 @@
 単純に異なる拡張子（コンテナ形式）に変換する場合は、変換元のファイル `input.mkv` と変換後のファイル `output.mp4` を以下の通りに指定して実行するだけで OK です。
 
 ```
-> ffmpeg -i input.mkv -c copy output.mp4
+$ ffmpeg -i input.mkv -c copy output.mp4
 ```
 
 OBS で Matroska Video 形式（.mkv）で録画した動画を MP4 形式に変換（最多重化）する場合などに便利です。  
@@ -22,7 +22,7 @@ OBS で Matroska Video 形式（.mkv）で録画した動画を MP4 形式に変
 `-c` オプションがエンコーダを指定するためのもので、 `:v` を付けることで映像ストリームに対してエンコーダを指定することを意味します。
 
 ```
-> ffmpeg -i input.mkv -c:v libx264 output.mp4
+$ ffmpeg -i input.mp4 -c:v libx264 output.mp4
 ```
 
 ここでは `libx264` を指定しています。これは H.264 形式の映像エンコーダを使用し、CPU で処理することを意味します。エンコード処理に CPU を使用するため低速ではあるものの、実行環境を問わないというメリットがあります。  
@@ -44,7 +44,7 @@ GPU を使用して高速化する場合、搭載している GPU に合わせ�
 例：NVIDIA GPU を使用して目標ビットレート 20Mbps でエンコードする場合
 
 ```
-> ffmpeg -i input.mkv -c:v h264_nvenc -b:v 20M output.mp4
+$ ffmpeg -i input.mp4 -c:v h264_nvenc -b:v 20M output.mp4
 ```
 
 NVIDIA NVEnc は NVIDIA の GPU に搭載されているハードウェアエンコーダで、非常に高速にエンコード処理を実行できる優秀なアクセラレータです。  
@@ -57,5 +57,5 @@ AMD は使ったことないので知りません。
 `:a` を付けることで音声ストリームに対してエンコーダを指定することを意味します。
 
 ```
-> ffmpeg -i input.mkv -c:v h264_nvenc -b:v 20M -c:a aac output.mp4
+$ ffmpeg -i input.mp4 -c:v libx264 -b:v 20M -c:a aac output.mp4
 ```
