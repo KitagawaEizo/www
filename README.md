@@ -13,17 +13,16 @@
 
 ## 連絡先等
 
-ご連絡は電子メールでのみお受けしております。  
-音声通話・オンラインミーティングなどをご希望の際は事前に下記メールアドレスよりご相談下さい。
+ご連絡は電子メールにてお受けしています。以下のアドレス宛てにお願いします。
 
 [contact@kitagawa-eizo.com](mailto:contact@kitagawa-eizo.com)
 
 ## 各種アカウント
 
-広報等用 Twitter / X アカウント
+広報等用 Twitter アカウント
 
 [@KitagawaEizo](https://x.com/KitagawaEizo)
 
-情報収集用 Twitter / X アカウント
+情報収集用 Twitter アカウント
 
 [@0x5E788F1D](https://x.com/0x5E788F1D)
